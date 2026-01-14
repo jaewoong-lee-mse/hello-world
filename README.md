@@ -13,5 +13,4 @@ Welcome to my GitHub! I am a freshman majoring in **Materials Science and Engine
 - Technical English
 
 ## 📫 Contact
-- Email: your.name.mse@gmail.com (방금 만드신 커리어 계정)
-- LinkedIn: [Your Profile Name]
+- Email: jaewoong.lee.mse@gmail.com 
